@@ -3,6 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 **YouTube Comment Analyzer** is an advanced web application designed to extract and analyze emotions from YouTube comments. Utilizing a range of modern technologies, this platform offers a user-friendly interface to interact with, assess, and visualize the sentiment of YouTube comments.
 
+<img width="1698" alt="Screenshot 2024-09-01 at 6 36 25 PM" src="https://github.com/user-attachments/assets/c6277fff-a65e-4065-a640-3adc5dc0ab1b">
+
 ---
 
 ### **Overview**
