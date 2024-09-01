@@ -22,6 +22,7 @@ The YouTube Comment Analyzer project encompasses a variety of features aimed at 
 - **Emotion Analysis**: Analyze the sentiment of comments to identify emotional trends.
 - **Interactive Visuals**: Visualize sentiment data through charts and graphs.
 - **User Interaction**: Simple interface for users to input video URLs and view analysis results.
+<img width="581" alt="Screenshot 2024-09-01 at 6 38 43 PM" src="https://github.com/user-attachments/assets/c9fb843c-d991-47a2-baeb-5cac157cb63b">
 
 ### **Key Technologies**
 
