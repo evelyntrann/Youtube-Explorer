@@ -5,14 +5,14 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "youtube",
+  title: "YVCSE",
   description: "Youtube Video Comment Sentiment Explorer",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={inter.clame}>
         <Providers>
           {children}
         </Providers>
